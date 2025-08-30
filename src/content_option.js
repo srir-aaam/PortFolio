@@ -1,4 +1,4 @@
-const logotext = "JOHN";
+const logotext = "SriRam";
 const meta = {
     title: "SriRam Tirrmasetti",
     description: "I’m SriRam - Full stack devloper,currently a student at Aditya University",
@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: " about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am a passionate and dedicated full-stack developer with a strong foundation in both front-end and back-end technologies. I love creating innovative web applications that provide seamless user experiences. With a keen eye for detail and a commitment to writing clean, efficient code, I strive to deliver high-quality solutions that meet client needs and exceed expectations. Let's connect and build something great together!",
 };
 const worktimeline = [{
         jobtitle: "Full Stack Intern",
@@ -69,23 +69,23 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "OpenTab is a social platform that allows users to share their favorite restaurants and dishes with their friends and family.",
+        link: "https://github.com/srir-aaam/OpenTab/tree/main/opentable-main",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Study Buddy is a web application that helps students to manage their study schedule and stay organized.",
+        link: "https://github.com/srir-aaam/Study-buddy",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Zewixa is a web application that allows users to search for the hotels, hostels and rooms nearby.",
+        link: "https://github.com/srir-aaam/Hostels",
     },
     {
-        // img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+          img: "https://picsum.photos/400/600/?grayscale",
+         description: "Movie Recommendation System is a web application that recommends movies to users based on their preferences.",
+         link: "https://github.com/srir-aaam/Movie-Recomendation-System",
     },
     
     
